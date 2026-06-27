@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@neondatabase/serverless": "npm:@neondatabase/serverless@^1.0.0",
+    "@std/dotenv": "jsr:@std/dotenv@^0.220.0"
+  }
+}
